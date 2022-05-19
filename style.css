@@ -60,6 +60,7 @@ main {
 }
 h1 {
     font-family:'Hepta Slab', Helvetica, Arial;
+    text-align: center;
 }
 .pizza-area {
     display:grid;
